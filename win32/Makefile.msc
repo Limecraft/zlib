@@ -18,7 +18,7 @@ LOC =
 
 # variables
 STATICLIB = zlib.lib
-SHAREDLIB = zlib1.dll
+SHAREDLIB = zlib1-64.dll
 IMPLIB    = zdll.lib
 
 CC = cl
